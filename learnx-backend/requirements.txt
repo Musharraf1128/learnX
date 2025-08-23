@@ -8,3 +8,6 @@ python-jose[cryptography]
 python-multipart
 httpx
 orjson
+pydantic-settings
+google-cloud-aiplatform
+
